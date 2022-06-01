@@ -1,3 +1,3 @@
 # SIR-model-simulation
 A Susceptible-Infected-Recovery model for epidemic simulation 
-![sir_iso002](https://user-images.githubusercontent.com/60088090/171368562-d078df62-77d5-4742-a06b-ae7c82afb80d.gif)
+![sir](https://user-images.githubusercontent.com/60088090/171369197-a6b5ba47-0add-4b9e-92b0-9ff6bce0be57.gif)
